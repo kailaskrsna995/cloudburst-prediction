@@ -1,6 +1,7 @@
 # 🌧️ Cloudburst Prediction
 
 This project aims to **predict cloudbursts** using machine learning and deep learning models. Accurate cloudburst prediction can help in disaster management, early warning systems, and preventing loss of life and property.
+The given csv file is free of null values and outliers.
 
 ## 🚀 Models Used
 - **Random Forest** – for feature-based classical prediction
